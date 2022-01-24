@@ -1,0 +1,7 @@
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\bin\Debug\YAS_HESAPLAMASİ.exe.config
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\bin\Debug\YAS_HESAPLAMASİ.exe
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\bin\Debug\YAS_HESAPLAMASİ.pdb
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\obj\Debug\YAS_HESAPLAMASİ.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\obj\Debug\YAS_HESAPLAMASİ.exe
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\obj\Debug\YAS_HESAPLAMASİ.pdb
+C:\Users\alper\source\repos\YAS_HESAPLAMASİ\YAS_HESAPLAMASİ\obj\Debug\YAS_HESAPLAMASİ.csproj.AssemblyReference.cache
